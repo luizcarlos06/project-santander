@@ -1,0 +1,27 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #181c23;
+    color: #ffffff;
+}
+
+
+.container{
+    margin-top: 15%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    margin: 0;
+    font-size: 100px;
+}
+
+h3{
+    font-size: 50px;
+}
+
+.containerBotao {
+    display: flex;
+}
